@@ -50,7 +50,6 @@ We've used a list of 3,282 airports from [OpenFlight.org](http://openflights.org
 To hack and develop on this current repository:
 
 ```sh
-git clone git@github.com:algolia/demo-geo-search.git
 cd ./demo-geo-search
 npm install
 npm run dev
